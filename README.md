@@ -14,7 +14,7 @@ SmartChat is a full-stack cloud-based multilingual chat application that bridges
 | Rajput Ajay      | 22BDS049     |
 | Vikas Thakur     | 22BDS063     |
 | Yash Soni        | 22BDS065     |
-| Babad Ganesh     | 22BDS067     |
+| Bhabad Ganesh     | 22BDS067     |
 
 ---
 

@@ -11,10 +11,10 @@ SmartChat is a full-stack cloud-based multilingual chat application that bridges
 | Name             | Roll Number  |
 |------------------|--------------|
 | Arpit Nayak      | 22BDS006     |
-| Rajput Ajay      | 22BDS049     |
-| Vikas Thakur     | 22BDS063     |
+| Ajay Rajput      | 22BDS049     |
+| Vikas Tomar     | 22BDS063     |
 | Yash Soni        | 22BDS065     |
-| Bhabad Ganesh     | 22BDS067     |
+| Ganesh Bhabad     | 22BDS067     |
 
 ---
 

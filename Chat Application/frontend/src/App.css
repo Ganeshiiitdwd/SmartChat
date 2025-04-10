@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap');
+
+/* code to remove the visible scroll bar  */
+::-webkit-scrollbar{
+    width: 0px;
+}
+::-webkit-scrollbar-thumb{
+    background: rgba(136,136,136,0.281);
+
+}
+
+::-webkit-slider-thumb:hover{
+    background: #555;
+}
+
+.App{
+    background-color: black;
+    min-height: 100vh;
+    display: flex;
+    background-position: center;
+    background-size: cover;
+    color: white;
+
+}

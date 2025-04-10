@@ -1,0 +1,14 @@
+/* CSS file */
+.image-container {
+    max-width: 835px;
+    max-height: 576px;
+    width: 100%;
+    height: auto;
+  }
+  
+  @media screen and (max-width: 768px) {
+    .image-container {
+      max-width: 100%;
+    }
+  }
+  

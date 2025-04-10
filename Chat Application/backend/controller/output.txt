@@ -1,0 +1,67 @@
+//accessChat for this function
+{
+    "_id": "65b3f75990997b15f90e5387",
+    "chatName": "sender",
+    "isGroupchat": false,
+    "users": [
+        {
+            "_id": "65a97a1370f192c52a523f89",
+            "email": "Shebly@gmail.com",
+            "name": "Thomas",
+            "pic": "https://static.vecteezy.com/system/resources/thumbnails/002/318/271/small/user-profile-icon-free-vector.jpg",
+            "createdAt": "2024-01-18T19:20:51.380Z",
+            "updatedAt": "2024-01-18T19:20:51.380Z",
+            "__v": 0
+        },
+        {
+            "_id": "65af95c6b2247a959292264c",
+            "email": "ganeshbhabad2022@gmail.com",
+            "name": "Ganesh Bhabad",
+            "pic": "http://res.cloudinary.com/dso053c1p/image/upload/v1706005954/mprrqk2xjnlxxzy1xxzb.png",
+            "createdAt": "2024-01-23T10:32:38.666Z",
+            "updatedAt": "2024-01-23T10:32:38.666Z",
+            "__v": 0
+        }
+    ],
+    "latestMessage": [],
+    "groupAdmin": [],
+    "createdAt": "2024-01-26T18:18:01.444Z",
+    "updatedAt": "2024-01-26T18:18:01.444Z",
+    "__v": 0
+}
+
+
+//sample output in case the chat exist previously 
+{
+  "_id": "chatId123",
+  "chatName": "sender",
+  "isGroupchat": false,
+  "users": [
+    {
+      "_id": "user1Id",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "pic": "https://static.vecteezy.com/system/resources/thumbnails/002/318/271/small/user-profile-icon-free-vector.jpg"
+    },
+    {
+      "_id": "user2Id",
+      "name": "Jane Doe",
+      "email": "jane@example.com",
+      "pic": "https://static.vecteezy.com/system/resources/thumbnails/002/318/271/small/user-profile-icon-free-vector.jpg"
+    }
+  ],
+  "latestMessage": {
+    "_id": "messageId456",
+    "content": "Hello, how are you?",
+    "sender": {
+      "_id": "user1Id",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "pic": "https://static.vecteezy.com/system/resources/thumbnails/002/318/271/small/user-profile-icon-free-vector.jpg"
+    },
+    "createdAt": "2024-01-26T12:30:45.678Z"
+  },
+  "createdAt": "2024-01-26T12:00:00.000Z",
+  "updatedAt": "2024-01-26T12:30:45.678Z"
+}
+
